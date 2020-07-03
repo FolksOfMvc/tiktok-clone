@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="tiktokclone" title="tiktokclone" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588992052/tiktok-clone/tiktok_x9nihm.png" width="100px" />
+<img alt="tiktokclone" title="tiktokclone" src="[![Run on Repl.it](https://repl.it/badge/github/matheuscastroweb/tiktok-clone)](https://repl.it/github/matheuscastroweb/tiktok-clone)" width="100px" />
     <br>
     TikTok Clone
 </h1>
